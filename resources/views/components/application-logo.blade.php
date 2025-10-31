@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo.png') }}" alt="Yuyu Tei Tracker" class="h-9 w-auto">
